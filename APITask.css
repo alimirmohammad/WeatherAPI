@@ -1,0 +1,19 @@
+ul {
+    list-style: none;
+}
+
+body {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+}
+input {
+    margin-bottom: 20px;
+}
+
+.card{
+    width: 30%;
+    margin: 20px auto;
+}
